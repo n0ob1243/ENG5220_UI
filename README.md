@@ -1,6 +1,6 @@
 # eng5220_ui
 
-UI for ENG5220
+UI for Openflexure+ 
 
 ## Getting Started
 
